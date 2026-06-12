@@ -5,3 +5,7 @@ launcher.js
 server.js
 package-lock.json
 deepseek_css_*.css
+# 构建产物（本地运行 npm run build 生成）
+*.min.css
+*.min.js
+Hypergryphmode.min.html
