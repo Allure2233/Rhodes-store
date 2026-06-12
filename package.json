@@ -1,0 +1,18 @@
+{
+  "name": "rhodes-island-shop",
+  "version": "1.0.0",
+  "description": "罗德岛补给站 - 明日方舟主题电商网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node launcher.js",
+    "server": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ecommerce", "arknights"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}

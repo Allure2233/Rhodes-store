@@ -1,0 +1,7 @@
+node_modules/
+data/
+*.bat
+launcher.js
+server.js
+package-lock.json
+deepseek_css_*.css
